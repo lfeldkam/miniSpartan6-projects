@@ -12,7 +12,9 @@ https://github.com/EspoTek/ise-extras)
 
 ## General
 
-This repository will include a write-up detailing my personal odyseey through VHDL, but it might one day help others to get started in FPGA development. A first longterm goal will the implementation of a PCIE image grabber with DMA on the host system.  
+This repository will include a write-up detailing my personal odyseey through VHDL, but it might one day help others to get started in FPGA development. 
+
+First longterm (probably very longterm) goals will be the implementation of a PCIE image grabber with DMA on the host system and a simple LIDAR system using  a APD.
 
 ## Repository overview
 * *Getting started*   -  VHDL/Verilog projects to get started
