@@ -9,4 +9,4 @@ FPGA projects using the miniSpartan6+ development board
 [https://github.com/EspoTek/ise-extras])
 
 
-* Xilinx Virtual Cable Daemon - xvcd (from [https://github.com/tmbinc/xvcd]) 
+* Xilinx Virtual Cable Daemon - xvcd (from [https://github.com/tmbinc/xvcd]) to use impact and chipscope
