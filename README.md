@@ -1,5 +1,5 @@
 # miniSpartan6-projects
-FPGA projects using the miniSpartan6+ development board
+FPGA projects using the miniSpartan6+([https://www.scarabhardware.com/minispartan6/]) development board
 
 ## Development environment
 * Ubuntu 16.04 LTS ([http://releases.ubuntu.com/16.04/])
