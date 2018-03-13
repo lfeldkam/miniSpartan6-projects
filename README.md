@@ -12,12 +12,10 @@ https://github.com/EspoTek/ise-extras)
 
 ## General
 
-This repository will include a write-up detailing my personal odyseey through VHDL, but it might one day help others to get started in FPGA development.
-
-
+This repository will include a write-up detailing my personal odyseey through VHDL, but it might one day help others to get started in FPGA development. A first longterm goal will the implementation of a PCIE image grabber with DMA on the host system.  
 
 ## Repository overview
 * *Getting started*   -  VHDL/Verilog projects to get started
 
 ## Disclaimer
-I do not take any responsibility for correctness and provide the information as is. If you have any suggestions for improvements or found an error please feel free to contact me or to create a new "issue".    
+I do not take any responsibility for the correctness of the  provided information. If you have any suggestions for improvements or found an error please feel free to contact me or to create a new "issue".   
