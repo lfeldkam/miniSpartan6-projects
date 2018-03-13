@@ -10,11 +10,14 @@ https://github.com/EspoTek/ise-extras)
 * Xilinx Virtual Cable Daemon - xvcd (from https://github.com/tmbinc/xvcd) to use impact and chipscope
 
 
-##General
+## General
 
-This repository will include a detailed write-up detailing my personal odyseey through VHDL. 
-I do not take any responsibility for correctness and provide the information as is. If you have any suggestions for improvements or found an error please feel free to contact me or to create a new "issue".    
+This repository will include a write-up detailing my personal odyseey through VHDL, but it might one day help others to get started in FPGA development.
+
 
 
 ## Repository overview
 * *Getting started*   -  VHDL/Verilog projects to get started
+
+## Disclaimer
+I do not take any responsibility for correctness and provide the information as is. If you have any suggestions for improvements or found an error please feel free to contact me or to create a new "issue".    
