@@ -10,11 +10,12 @@ FPGA projects using the miniSpartan6+([https://www.scarabhardware.com/minisparta
 * Xilinx Virtual Cable Daemon - xvcd (from [https://github.com/tmbinc/xvcd]) to use impact and chipscope
 
 
-##General
-
-This repository will include a detailed write-up detailing my personal odyseey through VHDL. 
-I do not take any responsibility for correctness and provide the information as is. If you have any suggestions for improvements or found an error please feel free to contact me or to create a new "issue".    
+## General
+This repository will include a detailed write-up detailing my personal odyseey through VHDL, but it may also help others to get started in the world of FPGA development
 
 
 ## Repository overview
 * *Getting started*   -  VHDL/Verilog projects to get started
+
+## Disclaimer
+I do not take any responsibility for correctness and provide the information as is. If you have any suggestions for improvements or found an error please feel free to contact me or to create a new "issue".    
