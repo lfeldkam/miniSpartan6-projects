@@ -10,3 +10,5 @@ FPGA projects using the miniSpartan6+ development board
 
 
 * Xilinx Virtual Cable Daemon - xvcd (from [https://github.com/tmbinc/xvcd]) to use impact and chipscope
+## Project overview
+* *Getting started*   -  VHDL/Verilog projects to get started
